@@ -795,3 +795,16 @@ ul.social_icon li a:hover {
     padding: 0%;
     margin: 5%;
 }
+
+.our_two_box {
+    margin-top: 2%;
+}
+
+.row {
+    margin-top: 2%;
+}
+
+.our_img2 {
+    justify-content: center;
+    align-items: center;
+}
