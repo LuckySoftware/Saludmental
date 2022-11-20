@@ -231,4 +231,8 @@
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
     }
+    .our_img1.webp .our_img5.jpg {
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 0px;
+    }
 }
