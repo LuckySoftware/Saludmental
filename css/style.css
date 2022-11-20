@@ -794,6 +794,8 @@ ul.social_icon li a:hover {
     align-items: center;
     padding: 0%;
     margin: 5%;
+    margin-left: 5%;
+    padding-left: 5%;
 }
 
 .our_two_box {
@@ -802,9 +804,4 @@ ul.social_icon li a:hover {
 
 .row {
     margin-top: 2%;
-}
-
-.our_img2 {
-    justify-content: center;
-    align-items: center;
 }
