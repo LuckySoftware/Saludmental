@@ -631,6 +631,15 @@ pre code {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px
+}
+
+.row1 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
     margin-right: 5px;
     margin-left: 5px
 }
@@ -2104,6 +2113,12 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .form-row>.col,
 .form-row>[class*=col-] {
+    padding-right: 5px;
+    padding-left: 5px
+}
+
+.form-row1>.col,
+.form-row1>[class*=col-] {
     padding-right: 5px;
     padding-left: 5px
 }
