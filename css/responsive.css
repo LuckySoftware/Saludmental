@@ -129,16 +129,7 @@
     }
 }
 
-@media (max-width: 480px) {
-    .video {
-        max-width: 34px;
-        max-height: 26px;
-    }
-    .videoback {
-        display: flex;
-        max-width: 34px;
-        max-height: 26px;
-    }
+@media (max-width: 575px) {
     .head_top {
         background: url(../images/banner.png);
     }
