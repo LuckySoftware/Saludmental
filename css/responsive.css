@@ -130,7 +130,7 @@
 }
 
 @media (max-width: 575px) {
-    .our_img5.jpg {
+    .our_img .our_img5.jpg {
         border-bottom-left-radius: 0px;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
